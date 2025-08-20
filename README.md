@@ -29,7 +29,7 @@ Visualize Trends: Create intuitive charts to highlight performance patterns for 
 Predict Profitability: Build a machine learning model to forecast whether a sale will be profitable or result in a loss.
 Enable User Interaction: Develop a web-based interface for real-time predictions, simulating client-facing tools.
 
-Key Features
+## Key Features
 
 SQL-Based Reporting: Queries extract insights from a SQLite database, generating Excel reports for:
 
@@ -50,7 +50,7 @@ Machine Learning Model: A Logistic Regression model (94% accuracy) predicts prof
 Streamlit Web App: An interactive interface allows users to input sales data and receive instant profit/loss predictions.
 Documentation: A detailed Word report and PowerPoint presentation summarize the project, including code, outputs, and insights.
 
-Technical Details
+## Technical Details
 
 Dataset: Superstore Sales Dataset (Kaggle), with columns like Order Date, Sales, Profit, Quantity, Discount, Region, and Category.
 Technologies:
@@ -60,7 +60,7 @@ Python: Pandas for data processing, scikit-learn for machine learning, Seaborn/M
 Streamlit: For building the interactive web app.
 
 
-Workflow:
+## Workflow:
 
 Load CSV data into SQLite (db_loader.py).
 Generate Excel reports with SQL queries (reporting.py).
@@ -69,14 +69,14 @@ Deploy a web app with a pre-trained ML model (ml_app.py).
 
 
 
-Outputs
+## Outputs
 
 Excel Reports: sales_by_region.xlsx, top_customers.xlsx, avg_profit_category.xlsx, monthly_sales.xlsx, quarterly_sales.xlsx, yearly_sales.xlsx.
 Charts: High-resolution PNGs (chart_sales_by_region.png, chart_monthly_sales.png, chart_quarterly_sales.png, chart_yearly_sales.png).
 Web App: Streamlit app for real-time predictions (screenshot: streamlit_app.png).
 Documentation: Sales_Analytics_Report.pdf and Sales_Analytics_Presentation.pptx.
 
-Why This Project?
+## Why This Project?
 This project demonstrates a full spectrum of data analytics skills:
 
 Data Analysis: SQL queries for multi-level insights.
@@ -86,7 +86,7 @@ User Interface: Client-friendly app for interactive data exploration.
 Documentation: Professional deliverables for technical and non-technical audiences.
 
 Explore the code, run the app, or view the report to see the project in action!
-View Report | Run the App | View Presentation
+[View Report](https://github.com/DhanwinSangishetty/Sales-Analytics-Prediction-System/blob/main/Sales_Analytics_Report.pdf)! | Run the App | View Presentation
 
 ## Technologies
 - SQLite, Pandas, scikit-learn, Streamlit, Seaborn, Matplotlib
