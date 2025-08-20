@@ -4,6 +4,7 @@ A data analytics project analyzing sales and predicting profitability with SQL, 
 
 | SQLite, Pandas, Streamlit
 
+ACCESS REPORT OF THIS PROJECT [HERE](https://github.com/DhanwinSangishetty/Sales-Analytics-Prediction-System/blob/main/Sales_Analytics_Report.pdf)!
 ## Setup
 1. Clone: `git clone https://github.com/your-username/sales-analytics`
 2. Install: `pip install -r requirements.txt`
