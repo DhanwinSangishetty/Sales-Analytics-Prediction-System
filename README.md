@@ -18,23 +18,23 @@ A data analytics project analyzing sales and predicting profitability with SQL, 
 - Charts: PNG files in root folder
 
 ##Repositories inside
-Sales-Analytics/
-├── data/
-│   └── SampleSuperstore.csv
-├── db_loader.py
-├── reporting.py
-├── visualization.py
-├── ml_app.py
-├── requirements.txt
-├── Sales_Analytics_Report.docx
-├── Sales_Analytics_Report.pdf
-├── Sales_Analytics_Presentation.pptx
-├── chart_sales_by_region.png
-├── chart_monthly_sales.png
-├── chart_quarterly_sales.png
-├── chart_yearly_sales.png
-├── streamlit_app.png
-└── README.md
+         Sales-Analytics/
+         ├── data/
+         │   └── SampleSuperstore.csv
+         ├── db_loader.py
+         ├── reporting.py
+         ├── visualization.py
+         ├── ml_app.py
+         ├── requirements.txt
+         ├── Sales_Analytics_Report.docx
+         ├── Sales_Analytics_Report.pdf
+         ├── Sales_Analytics_Presentation.pptx
+         ├── chart_sales_by_region.png
+         ├── chart_monthly_sales.png
+         ├── chart_quarterly_sales.png
+         ├── chart_yearly_sales.png
+         ├── streamlit_app.png
+         └── README.md
 
 ## Extended Description
 Extended Description
